@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 22028833,
+            "name": "Microsoft Retail",
+            "location": "Redmond, WA"
+        },
+        {
+            "id": 14117843,
+            "name": "Samsung Mobile US",
+            "location": "USA"
+        }
+    ]
+}
